@@ -1,9 +1,9 @@
 # Podcast: "Bujang Bukan Bermaksud Lapang"
 ### Panduan host — anak bujang yang jadi penjaga "default" ibu bapa
 
-**Durasi:** 30 minit
-**Sasaran:** Wanita 25–45 tahun, terutama anak bujang, anak sulung dan anak perempuan yang menjaga ibu bapa
-**Nada:** Kami faham, kami dengar, kami tak menghakimi.
+- **Durasi:** 30 minit
+- **Sasaran:** Wanita 25–45 tahun, terutama anak bujang, anak sulung dan anak perempuan yang menjaga ibu bapa
+- **Nada:** Kami faham, kami dengar, kami tak menghakimi.
 
 ---
 
